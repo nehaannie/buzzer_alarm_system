@@ -15,7 +15,7 @@ This project demonstrates a simple Buzzer Alarm System using a Passive Infrared 
 ![Circuit Diagram](circuit.png)<br>
 
 2.Our circuit<br>
-![buzzer](buz.png)
+![buzzer](buz.jpg)
 
 ## Setup Instructions
 1. **Connect the PIR Sensor to Arduino:**
